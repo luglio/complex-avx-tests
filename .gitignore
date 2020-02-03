@@ -1,3 +1,6 @@
+# Custom
+*.s
+
 # Prerequisites
 *.d
 
